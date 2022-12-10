@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://www.system-exodus.com/scripts/misc-releases/Rer
 
 --[[
 
-https://www.roblox.com/games/4752917845/reroll-gg-Case-Simulator
+https://www.roblox.com/games/4752917845/
 
 - Auto Buy Cases
 - Auto Open Cases
